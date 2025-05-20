@@ -1,0 +1,6 @@
+streamlit
+google-generativeai 
+python-dotenv 
+stremalit-option-menu 
+streamlit-ace 
+streamlit-antd-components
