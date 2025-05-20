@@ -53,7 +53,7 @@ ACE_DEFAULT_THEME = "monokai"
 ACE_DEFAULT_KEYBINDING = "vscode"
 
 # Which Google AI model to use for generating code
-GEMINI_MODEL_NAME = "gemini-2.5-pro-exp-03-25"
+GEMINI_MODEL_NAME = "gemini-2.0-flash"
 
 # Instructions for the Google AI model
 # This tells the AI how to format its responses (as JSON commands)
